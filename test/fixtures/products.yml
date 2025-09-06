@@ -1,13 +1,25 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+  title: My Life as a Rails Developer
+  description: 
+    A scintillating memoir of a software developer.
+  image_url: maapis.jpg
+  price: 19.99
 
 two:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+  title: Getting Railed Right
+  description: 
+    Avoid the pitfalls of web development with Rails
+  image_url: lorem.jpg
+  price: 16.99
+
+ruby:
+  title: Programming Ruby 1.9
+  description: 
+    Ruby is the fastest growing and most exciting dynamic language
+    out there. If you need to get working programs delivered fast, you should add
+    Ruby to your toolbox.
+  image_url: ruby.jpg
+  price: 49.50
+  
